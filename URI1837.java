@@ -9,22 +9,12 @@ public class URI1837 {
         Scanner entrada = new Scanner(System.in);
         int a = entrada.nextInt();
         int b = entrada.nextInt();
-        
-        int q = a/b;
-        int r = a%b;
-        if(r>=0 && r<Math.abs(b)){
-            System.out.println(q+" "+r);
+        if(a>b){
+            System.out.println(a/b+" "+ a%b);
+        }else{
+//           a = b × q + r
+//            q + r = (a/b);
+//            0<=r < Math.abs(b);
         }
-        else{
-            
-        }
-        
-        r = a/b*q;
-       
-        
-            
-            
-          
-      
     }
 }

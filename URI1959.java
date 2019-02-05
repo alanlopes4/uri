@@ -5,7 +5,6 @@
  */
 package uri;
 
-import java.math.BigDecimal;
 import java.util.Scanner;
 
 /**
@@ -15,9 +14,8 @@ import java.util.Scanner;
 public class URI1959 {
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
-        double x = entrada.nextDouble();
-        double y = entrada.nextDouble();
-        BigDecimal p = new BigDecimal(x*y);
-        System.out.println(p);
+        int x = entrada.nextInt();
+        int y = entrada.nextInt();
+        System.out.println(x*y);
     }
 }

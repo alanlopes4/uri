@@ -18,7 +18,7 @@ dificuldade variante de 1 a 10.
 
 ## Meta
 
-Alan Lopes de Sousa Freitas – [@AlanLopes](https://https://www.linkedin.com/in/alan-lopes-b2ba6283/) – alanlopes4@gmail.com
+Alan Lopes de Sousa Freitas – [@AlanLopes](https://www.linkedin.com/in/alan-lopes-b2ba6283/) – alanlopes4@gmail.com
 
 
 ## Contribuição

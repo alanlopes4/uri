@@ -1,7 +1,7 @@
 # URI - Online Judge
 > Exercícos resolvidos do URI utilizando as linguagens de programação JAVA e JAVASCRIPT.
 
-[![NPM Version][npm-image]][npm-url]
+[![Java Version][java-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
@@ -29,9 +29,7 @@ Alan Lopes de Sousa Freitas – [@AlanLopes](https://www.linkedin.com/in/alan-lo
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[java-image]: https://img.shields.io/badge/java%208-jdk1.8-green.svg
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/seunome/seuprojeto/wiki

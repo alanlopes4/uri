@@ -1,9 +1,9 @@
 # URI - Online Judge
 > Exercícos resolvidos do URI utilizando as linguagens de programação JAVA e JAVASCRIPT.
 
-[![Java Version][java-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Java Version][java-image]][java-url]
+[![Javascript Version][javascript-image]][javascript-url]
+[![Uri][uri-image]][uri-url]
 
 URI é um repositório de problemas de programação no quais são separados por categorias (iniciante, ad-hoc, strings, etc) e 
 dificuldade variante de 1 a 10.
@@ -30,6 +30,8 @@ Alan Lopes de Sousa Freitas – [@AlanLopes](https://www.linkedin.com/in/alan-lo
 5. Crie um novo _Pull Request_
 
 [java-image]: https://img.shields.io/badge/java%208-jdk1.8-green.svg
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
+[java-url]: https://www.java.com/pt_BR/download/
+[javascript-image]: https://img.shields.io/badge/js-javascript-red.svg
+[javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
+[uri-image]: https://img.shields.io/badge/uri-uri--online--judge-ff69b4.svg
+[uri-url]: https://www.urionlinejudge.com.br/judge/pt/login 

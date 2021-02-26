@@ -23,6 +23,9 @@ public class URI1047 {
         }else if(mt2==mt1){
             System.out.printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n",24, 0);
         }
+        else {
+        	System.out.println("hello world");
+        }
        
     }
 }
